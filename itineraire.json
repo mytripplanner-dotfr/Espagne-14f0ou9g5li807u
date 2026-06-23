@@ -1,0 +1,337 @@
+{
+  "pays": "Espagne",
+  "drapeau": "🇪🇸",
+  "symbole": "☀️",
+  "titre": "Escapade relaxante au cœur de l'Espagne",
+  "budget_total": "Environ 1250 €/personne",
+  "duree": "8 jours",
+  "temps_vol": "1h30 depuis Auzielle, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Madrid, première immersion",
+      "legende": "Arrivée en douceur dans la capitale espagnole. Installation à l'hôtel et première balade pour s'imprégner de l'ambiance madrilène. Une journée légère pour commencer le séjour en toute sérénité.",
+      "lieu": "Madrid",
+      "activites": [
+        "🛬 Arrivée à l'aéroport de Madrid-Barajas (MAD)",
+        "🛏️ Installation à l'hôtel dans le centre de Madrid",
+        "🚶‍♂️ Balade relaxante autour de la Plaza Mayor et de la Puerta del Sol"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport Adolfo Suárez Madrid-Barajas, Madrid",
+          "categorie": "Aéroport",
+          "coords": { "lat": 40.4936, "lng": -3.5668 }
+        },
+        {
+          "nom_recherche": "Plaza Mayor, Madrid",
+          "categorie": "Place",
+          "coords": { "lat": 40.4154, "lng": -3.7073 }
+        },
+        {
+          "nom_recherche": "Puerta del Sol, Madrid",
+          "categorie": "Place",
+          "coords": { "lat": 40.4167, "lng": -3.7032 }
+        }
+      ],
+      "illustration": "jour1_madrid.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre de Madrid est très bien desservi par le métro depuis l'aéroport. Prévoyez un titre de transport adapté."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌳",
+      "titre": "Détente royale et verdure urbaine",
+      "legende": "Une journée dédiée à la détente au cœur de Madrid, entre jardins luxuriants et architecture majestueuse. Profitez du calme du Retiro et de la grandeur du Palais Royal.",
+      "lieu": "Madrid",
+      "activites": [
+        "<strong>🌳 Promenade matinale au Parc du Retiro</strong>: Flânez autour du grand étang, admirez le Palais de Cristal et profitez de la sérénité des lieux.",
+        "<strong>🏛️ Visite extérieure du Palais Royal de Madrid</strong>: Contemplez la grandeur de cette résidence historique et ses jardins adjacents, comme les Jardins de Sabatini.",
+        "<strong>🍽️ Dîner tapas dans le quartier de La Latina</strong>: Savourez l'ambiance animée et les spécialités locales dans l'un des quartiers les plus typiques de Madrid."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Parc du Retiro, Madrid",
+          "categorie": "Parc",
+          "coords": { "lat": 40.4149, "lng": -3.6806 }
+        },
+        {
+          "nom_recherche": "Palais Royal de Madrid, Madrid",
+          "categorie": "Palais",
+          "coords": { "lat": 40.4181, "lng": -3.7143 }
+        },
+        {
+          "nom_recherche": "Quartier La Latina, Madrid",
+          "categorie": "Quartier",
+          "coords": { "lat": 40.4116, "lng": -3.7088 }
+        }
+      ],
+      "illustration": "jour2_retiro.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil",
+          "texte": "Le Parc du Retiro est vaste, prévoyez de bonnes chaussures pour une longue balade agréable."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Évasion historique à Tolède",
+      "legende": "Une journée hors du temps dans la magnifique ville de Tolède, classée au patrimoine mondial de l'UNESCO, pour une immersion culturelle douce. Découvrez son riche passé et ses vues imprenables.",
+      "lieu": "Tolède",
+      "activites": [
+        "<strong>🚆 Trajet en train rapide vers Tolède</strong>: Profitez d'un court voyage (environ 30 min) pour découvrir cette ville aux trois cultures (chrétienne, juive, musulmane).",
+        "<strong>🚶‍♀️ Balade dans la vieille ville de Tolède</strong>: Explorez ses ruelles sinueuses, sa cathédrale imposante et ses synagogues historiques, en vous laissant porter par l'atmosphère.",
+        "<strong>🌅 Coucher de soleil depuis le Mirador del Valle</strong>: Admirez la vue panoramique sur la ville illuminée, un spectacle inoubliable."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare de Madrid-Puerta de Atocha, Madrid",
+          "categorie": "Gare",
+          "coords": { "lat": 40.4059, "lng": -3.6912 }
+        },
+        {
+          "nom_recherche": "Cathédrale Sainte-Marie de Tolède, Tolède",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 39.8569, "lng": -4.0247 }
+        },
+        {
+          "nom_recherche": "Mirador del Valle, Tolède",
+          "categorie": "Point de vue",
+          "coords": { "lat": 39.8504, "lng": -4.0229 }
+        }
+      ],
+      "illustration": "jour3_toledo.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce transport",
+          "texte": "Réservez vos billets de train pour Tolède à l'avance, surtout si vous voyagez le week-end, pour garantir votre place et un meilleur tarif."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🎨",
+      "titre": "Art, saveurs et détente à Madrid",
+      "legende": "Une journée mêlant culture, gastronomie et moments de calme au cœur de la capitale espagnole. Entre art, délices culinaires et relaxation profonde, l'équilibre parfait.",
+      "lieu": "Madrid",
+      "activites": [
+        "<strong>🎨 Visite du Musée Thyssen-Bornemisza</strong>: Découvrez une collection d'art variée, de l'ancien au moderne, dans une ambiance plus intime et moins écrasante que les grands musées.",
+        "<strong>🍽️ Déjeuner au Mercado de San Miguel</strong>: Goûtez à une multitude de tapas et de produits frais dans ce marché couvert emblématique, un régal pour les papilles.",
+        "<strong>💆‍♀️ Moment de relaxation dans un Hammam Al Ándalus</strong>: Offrez-vous un bain arabe traditionnel pour une détente profonde du corps et de l'esprit, une expérience apaisante."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée Thyssen-Bornemisza, Madrid",
+          "categorie": "Musée",
+          "coords": { "lat": 40.4172, "lng": -3.6946 }
+        },
+        {
+          "nom_recherche": "Mercado de San Miguel, Madrid",
+          "categorie": "Marché",
+          "coords": { "lat": 40.4154, "lng": -3.7087 }
+        },
+        {
+          "nom_recherche": "Hammam Al Ándalus, Madrid",
+          "categorie": "Spa",
+          "coords": { "lat": 40.4124, "lng": -3.7058 }
+        }
+      ],
+      "illustration": "jour4_hammam.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Détente",
+          "texte": "Pensez à réserver votre séance au Hammam Al Ándalus à l'avance, surtout si vous souhaitez un créneau spécifique."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏛️",
+      "titre": "Splendeurs romaines et royales à Ségovie",
+      "legende": "Une excursion fascinante à Ségovie, où l'histoire romaine et médiévale se rencontrent dans un cadre pittoresque. Laissez-vous émerveiller par son aqueduc et son château de conte de fées.",
+      "lieu": "Ségovie",
+      "activites": [
+        "<strong>🚌 Trajet en bus vers Ségovie</strong>: Un voyage confortable (environ 1h30) pour atteindre cette ville classée au patrimoine mondial de l'UNESCO.",
+        "<strong>🏛️ Admiration de l'Aqueduc de Ségovie</strong>: Laissez-vous impressionner par cette prouesse d'ingénierie romaine, parfaitement conservée et dominant la ville.",
+        "<strong>🏰 Visite de l'Alcázar de Ségovie</strong>: Explorez ce château de conte de fées, qui aurait inspiré Walt Disney pour certains de ses châteaux, et profitez de ses vues panoramiques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare routière de Moncloa, Madrid",
+          "categorie": "Gare routière",
+          "coords": { "lat": 40.4357, "lng": -3.7196 }
+        },
+        {
+          "nom_recherche": "Aqueduc de Ségovie, Ségovie",
+          "categorie": "Monument",
+          "coords": { "lat": 40.9482, "lng": -4.1184 }
+        },
+        {
+          "nom_recherche": "Alcázar de Ségovie, Ségovie",
+          "categorie": "Château",
+          "coords": { "lat": 40.9512, "lng": -4.1259 }
+        }
+      ],
+      "illustration": "jour5_segovia.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Spécialité locale",
+          "texte": "À Ségovie, ne manquez pas de goûter au cochon de lait rôti (cochinillo asado), une spécialité culinaire de la région."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🧘‍♀️",
+      "titre": "Culture et sérénité à Madrid",
+      "legende": "Une journée pour apprécier la diversité culturelle de Madrid et profiter de ses espaces verts apaisants. Entre histoire égyptienne et ambiance bohème, la capitale révèle ses charmes cachés.",
+      "lieu": "Madrid",
+      "activites": [
+        "<strong>🧘‍♀️ Matinée au Temple de Debod</strong>: Profitez de la tranquillité de ce temple égyptien antique offert à l'Espagne, avec une vue imprenable sur la ville, idéal pour un moment de calme.",
+        "<strong>🛍️ Flânerie et shopping dans le quartier de Malasaña</strong>: Découvrez ses boutiques indépendantes, ses librairies et ses cafés branchés, pour une ambiance jeune et créative.",
+        "<strong>🎶 Soirée flamenco (optionnel) ou dîner tranquille</strong>: Imprégnez-vous de l'ambiance espagnole en assistant à un spectacle de flamenco ou en savourant un dîner paisible."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Temple de Debod, Madrid",
+          "categorie": "Monument",
+          "coords": { "lat": 40.4243, "lng": -3.7176 }
+        },
+        {
+          "nom_recherche": "Quartier Malasaña, Madrid",
+          "categorie": "Quartier",
+          "coords": { "lat": 40.4258, "lng": -3.7025 }
+        }
+      ],
+      "illustration": "jour6_debod.jpg",
+      "encarts": [
+        {
+          "symbole": "🌅",
+          "titre": "Coucher de soleil",
+          "texte": "Le Temple de Debod est un lieu privilégié pour admirer le coucher de soleil sur Madrid, offrant des couleurs magnifiques."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🍷",
+      "titre": "Saveurs locales et adieux madrilènes",
+      "legende": "Une dernière journée pour savourer les délices culinaires de Madrid et profiter de son atmosphère avant le départ. Entre brunch gourmand et dégustation de tapas, un adieu en douceur.",
+      "lieu": "Madrid",
+      "activites": [
+        "<strong>🍳 Brunch espagnol typique</strong>: Dégustez des churros con chocolate ou une tortilla de patatas dans une chocolateria traditionnelle pour un réveil gourmand.",
+        "<strong>🚶‍♂️ Balade dans le quartier de Chueca</strong>: Explorez ses rues colorées, ses places animées et son ambiance vibrante, un quartier moderne et accueillant.",
+        "<strong>🍷 Dégustation de vins et tapas</strong>: Une dernière immersion dans la gastronomie espagnole, en savourant des vins locaux accompagnés de délicieuses tapas."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Chocolateria San Ginés, Madrid",
+          "categorie": "Café",
+          "coords": { "lat": 40.4164, "lng": -3.7062 }
+        },
+        {
+          "nom_recherche": "Quartier Chueca, Madrid",
+          "categorie": "Quartier",
+          "coords": { "lat": 40.4226, "lng": -3.6987 }
+        }
+      ],
+      "illustration": "jour7_tapas.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Profitez de cette dernière journée pour acheter des souvenirs gourmands comme du jambon ibérique ou de l'huile d'olive."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "✈️",
+      "titre": "Départ de Madrid",
+      "legende": "Derniers instants à Madrid avant de prendre le vol retour, emportant avec vous de merveilleux souvenirs de cette escapade relaxante en Espagne. Un petit-déjeuner tranquille pour clore le voyage.",
+      "lieu": "Madrid",
+      "activites": [
+        "☕ Petit-déjeuner espagnol",
+        "🛍️ Achats de dernière minute (souvenirs)",
+        "✈️ Départ de l'aéroport de Madrid-Barajas (MAD)"
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport Adolfo Suárez Madrid-Barajas, Madrid",
+          "categorie": "Aéroport",
+          "coords": { "lat": 40.4936, "lng": -3.5668 }
+        }
+      ],
+      "illustration": "jour8_depart.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 68 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 60 €/pers (métro, bus, trains régionaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 400 €/pers (restaurants de gamme moyenne, tapas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 560 €/pers (7 nuits en hôtel 3* ou appartement)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 130 €/pers (musées, hammam, Alcázar, dégustations)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Octobre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "En octobre, les températures à Madrid varient entre 10 et 20°C. Prévoir des vêtements de mi-saison, avec une petite laine pour les soirées.", "symbole": "🍁" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant si vous louez une voiture (non nécessaire pour cet itinéraire). La conduite est à droite, les vitesses en km/h.", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale ou une eSIM est recommandée pour la connexion internet. Le Wi-Fi est généralement disponible dans les hébergements et de nombreux cafés.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Le Palais Royal de Madrid est le plus grand palais royal d'Europe occidentale en termes de superficie, avec plus de 3 400 pièces. Il est deux fois plus grand que Buckingham Palace !" 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "La Plaza Mayor de Madrid a été le théâtre de corridas, de procès de l'Inquisition et même de couronnements royaux. Un véritable centre névralgique de l'histoire madrilène !" 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Tortilla de Patatas", 
+      "description": "L'omelette espagnole, un classique réconfortant à base de pommes de terre, d'œufs et parfois d'oignons, parfaite à toute heure." 
+    },
+    { 
+      "symbole": "🥤", 
+      "titre": "Churros con Chocolate", 
+      "description": "Des beignets frits croustillants, parfaits pour le petit-déjeuner ou le goûter, à tremper dans un chocolat chaud épais et onctueux." 
+    },
+    { 
+      "symbole": "🥪", 
+      "titre": "Bocadillo de Calamares", 
+      "description": "Un sandwich simple mais emblématique de Madrid, garni de calamars frits croustillants, souvent dégusté près de la Plaza Mayor." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/TLS-MAD/2026-10-13/2026-10-20", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Espagne", "url": "https://www.spain.info/fr/", "symbole": "📘" },
+    { "legende": "Horaires des transports (trains)", "titre": "Renfe (trains espagnols)", "url": "https://www.renfe.com/es/fr", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "AEMET (Météo Espagne)", "url": "https://www.aemet.es/fr/portada", "symbole": "🌤️" }
+  ]
+}
